@@ -15,7 +15,7 @@ Credits and references used in this README:
 **`Web2/Web3 Tech Enthusiast`** 
 
 ## About Me
-Hi, I am Sahil aka **`scrom`** an 18yo dev from India, and I have a strong interest in creating my own complete web technologies. At the moment, I am learning about Web 3, blockchain technology, decentralized applications, and smart contracts.  
+Hi, I am Sahil aka **`scrom`** an 18 yo full-stack dev from India, and I have a strong interest in creating my own complete web technologies. At the moment, I am learning about Web 3, blockchain technology, decentralized applications, and smart contracts.  
 
 I enjoy studying and working with exciting new tools and frameworks that push the boundaries of what it is possible to do on the web. I want to be involved in creative pieces that merge creativity and technology, resulting in smooth digital experiences and the possibilities of decentralized systems.
 
